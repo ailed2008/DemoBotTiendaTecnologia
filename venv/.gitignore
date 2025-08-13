@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Configuración de Streamlit
+.streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Datos sensibles
+data/inventario.xlsx
